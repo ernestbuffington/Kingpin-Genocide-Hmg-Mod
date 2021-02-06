@@ -1,0 +1,41 @@
+Right then Wozza here is the text file that will hopefully explain to
+you everything that you need to knwo to add the option to have this as
+either the HMG or Bazooka. So sit back relax and get to it.
+
+Converting the weapons
+======================
+file: g_spawn.c
+routine: ED_callspawn
+
+This is where you will need to add the selection switch to spawn either
+the HMG or Bazooka.
+
+Selecting a bonus
+=================
+file: p_client.c
+routine: clientobituary
+
+This is where you will need to check for the random bonus and add/delete/
+modify the appropriatre ones for whichever mod your playing.
+
+Message's
+=========
+file: arena_utils.c
+routine: various
+
+This is where the bonus message's are kept.
+
+New server commands
+===================
+files: g_local.h, g_main.c, g_save.c
+routines: Initgame(g_save.c), the others can be found by searching for
+maxstreak for the example.
+
+By copying the maxstreak command and renaming it gamemode should be enough
+for selecting which game you want to run.
+
+An example of a timer for when you add the invincibilty can be found by
+searching for bonus_timer. There's still the code in there for the
+invincibility so merging the two should provide what you need. You should
+be able to set it up so if you added 30 or 2 to the timer it will give you
+the type of shield needed.

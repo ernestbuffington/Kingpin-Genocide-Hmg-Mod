@@ -1,0 +1,191 @@
+--------------------Configuration: game - Win32 Release--------------------
+Begining build with project "C:\Program Files\DevStudio\MyProjects\Genocide\game.dsp", at root.
+Active configuration is Win32 (x86) Dynamic-Link Library (based on Win32 (x86) Dynamic-Link Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /G5 /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp".\Release/game.pch" /YX /Fo".\Release/" /Fd".\Release/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "NDEBUG" /mktyplib203 /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x409 /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"..\Release/game.bsc" "
+			"COFF Linker for 80x86" with flags "navlib\navlib.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /base:"0x20000000" /subsystem:windows /dll /incremental:no /pdb:"..\Release/gamex86.pdb" /debug /machine:I386 /def:".\game.def" /out:".\release\gamex86.dll" /implib:"..\Release/gamex86.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSP5342.TMP" with contents </nologo /G5 /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp".\Release/game.pch" /YX /Fo".\Release/" /Fd".\Release/" /FD /c 
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_bitch.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_bum_sit.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_dog.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_punk.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_runt.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_shorty.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_thug.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_thug_sit.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ai_whore.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\Arena_utils.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_all.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_crystalpalace.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_log.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_posionville.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_radiocity.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_shipyards.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_skidrow.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_steeltown.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\ep_trainyard.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_ai.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_ai_ents.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_ai_fight.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_ai_memory.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_cast.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\G_chase.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_cmds.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_combat.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_func.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_items.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_joe_misc.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_main.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_misc.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_pawn.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_phys.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_save.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_spawn.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_svcmds.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_target.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_teamplay.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_trigger.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_utils.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\g_weapon.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\m_bbox.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\m_move.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\p_client.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\p_hud.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\p_view.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\p_weapon.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\Progress.cpp"
+"C:\Program Files\DevStudio\MyProjects\Genocide\vehicles.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\voice.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\voice_bitch.c"
+"C:\Program Files\DevStudio\MyProjects\Genocide\voice_punk.c"
+>
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP5342.TMP" 
+Creating temp file "C:\WINDOWS\TEMP\RSP5343.TMP" with contents <navlib\navlib.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /base:"0x20000000" /subsystem:windows /dll /incremental:no /pdb:"..\Release/gamex86.pdb" /debug /machine:I386 /def:".\game.def" /out:".\release\gamex86.dll" /implib:"..\Release/gamex86.lib" 
+".\Release\ai_bitch.obj"
+".\Release\ai_bum_sit.obj"
+".\Release\ai_dog.obj"
+".\Release\ai_punk.obj"
+".\Release\ai_runt.obj"
+".\Release\ai_shorty.obj"
+".\Release\ai_thug.obj"
+".\Release\ai_thug_sit.obj"
+".\Release\ai_whore.obj"
+".\Release\Arena_utils.obj"
+".\Release\ep_all.obj"
+".\Release\ep_crystalpalace.obj"
+".\Release\ep_log.obj"
+".\Release\ep_posionville.obj"
+".\Release\ep_radiocity.obj"
+".\Release\ep_shipyards.obj"
+".\Release\ep_skidrow.obj"
+".\Release\ep_steeltown.obj"
+".\Release\ep_trainyard.obj"
+".\Release\g_ai.obj"
+".\Release\g_ai_ents.obj"
+".\Release\g_ai_fight.obj"
+".\Release\g_ai_memory.obj"
+".\Release\g_cast.obj"
+".\Release\G_chase.obj"
+".\Release\g_cmds.obj"
+".\Release\g_combat.obj"
+".\Release\g_func.obj"
+".\Release\g_items.obj"
+".\Release\g_joe_misc.obj"
+".\Release\g_main.obj"
+".\Release\g_misc.obj"
+".\Release\g_pawn.obj"
+".\Release\g_phys.obj"
+".\Release\g_save.obj"
+".\Release\g_spawn.obj"
+".\Release\g_svcmds.obj"
+".\Release\g_target.obj"
+".\Release\g_teamplay.obj"
+".\Release\g_trigger.obj"
+".\Release\g_utils.obj"
+".\Release\g_weapon.obj"
+".\Release\m_bbox.obj"
+".\Release\m_move.obj"
+".\Release\p_client.obj"
+".\Release\p_hud.obj"
+".\Release\p_view.obj"
+".\Release\p_weapon.obj"
+".\Release\Progress.obj"
+".\Release\q_shared.obj"
+".\Release\vehicles.obj"
+".\Release\voice.obj"
+".\Release\voice_bitch.obj"
+".\Release\voice_punk.obj">
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP5343.TMP" 
+Compiling...
+ai_bitch.c
+ai_bum_sit.c
+ai_dog.c
+ai_punk.c
+ai_runt.c
+ai_shorty.c
+ai_thug.c
+ai_thug_sit.c
+ai_whore.c
+Arena_utils.c
+ep_all.c
+ep_crystalpalace.c
+ep_log.c
+ep_posionville.c
+ep_radiocity.c
+ep_shipyards.c
+ep_skidrow.c
+ep_steeltown.c
+ep_trainyard.c
+g_ai.c
+g_ai_ents.c
+g_ai_fight.c
+g_ai_memory.c
+g_cast.c
+G_chase.c
+g_cmds.c
+g_combat.c
+g_func.c
+g_items.c
+g_joe_misc.c
+g_main.c
+g_misc.c
+g_pawn.c
+g_phys.c
+g_save.c
+g_spawn.c
+g_svcmds.c
+g_target.c
+g_teamplay.c
+g_trigger.c
+g_utils.c
+g_weapon.c
+m_bbox.c
+m_move.c
+p_client.c
+p_hud.c
+C:\Program Files\DevStudio\MyProjects\Genocide\p_hud.c(1439) : warning C4101: 'remaining' : unreferenced local variable
+p_view.c
+p_weapon.c
+C:\Program Files\DevStudio\MyProjects\Genocide\p_weapon.c(2798) : warning C4101: 'PowerUp' : unreferenced local variable
+C:\Program Files\DevStudio\MyProjects\Genocide\p_weapon.c(2798) : warning C4101: 'diff' : unreferenced local variable
+C:\Program Files\DevStudio\MyProjects\Genocide\p_weapon.c(2798) : warning C4101: 'cl_ent' : unreferenced local variable
+C:\Program Files\DevStudio\MyProjects\Genocide\p_weapon.c(2798) : warning C4101: 'i' : unreferenced local variable
+Progress.cpp
+vehicles.c
+voice.c
+voice_bitch.c
+voice_punk.c
+Linking...
+   Creating library ..\Release/gamex86.lib and object ..\Release/gamex86.exp
+LINK : warning LNK4098: defaultlib "LIBC" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+gamex86.dll - 0 error(s), 6 warning(s)

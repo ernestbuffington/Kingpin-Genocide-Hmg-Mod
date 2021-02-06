@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ai_bitch.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_bum_sit.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_dog.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_punk.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_runt.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_shorty.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_skinny.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_thug.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_thug_sit.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ai_whore.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arena_utils.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_all.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_crystalpalace.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_log.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_posionville.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_radiocity.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_shipyards.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_skidrow.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_steeltown.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ep_trainyard.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_ai.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_ai_ents.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_ai_fight.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_ai_memory.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_cast.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_chase.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_cmds.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_combat.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_fog.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_func.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_items.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_joe_misc.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_main.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_misc.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_pawn.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_phys.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_save.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_spawn.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_svcmds.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_target.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_teamplay.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_trigger.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_utils.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_weapon.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="m_bbox.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="m_move.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p_client.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p_hud.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p_trail.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p_view.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p_weapon.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="q_shared.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vehicles.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voice.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voice_bitch.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voice_punk.c">
+      <Filter>Genocide Mod Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ai_bitch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_bitch_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_bum_sit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_dog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_dog_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_punk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_punk_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_runt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_runt_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_shorty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_shorty_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_skinny_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_thug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_thug_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_thug2_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_whore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_whore_tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ep_all.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ai_thug2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ep_log.h">
+      <Filter>Genocide Mod Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_ai.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_teamplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_func.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_local.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_nav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="m_player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="q_shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="voice_bitch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vehicles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="veh_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="voice_punk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="voice.h">
+      <Filter>Genocide Mod Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{f473f7bd-e469-44b1-aedd-12bd14871be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Genocide Mod Files">
+      <UniqueIdentifier>{9d4ddda0-45a8-4cd9-ad96-2a03923a66ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
